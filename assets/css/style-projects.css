@@ -1,0 +1,105 @@
+#left {
+    background-color: #ffffff;
+    border-top: solid #dddddd 1px;
+    border-bottom: solid #dddddd 1px;
+    width: 16.5%;
+    height: 80px;
+    float: left;
+     
+}
+
+#middle {
+    background-color: #4aaaa5;
+    border: 1px solid #dddddd;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 15.02%;
+    height: 20px;
+    float: left;
+    padding: 30px;
+    
+}
+
+#right {
+    background-color: #ffffff;
+    border-top: solid #dddddd 1px;
+    border-bottom: solid #dddddd 1px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    width: 60%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    text-indent: 250px;
+    padding: 30px;
+    
+
+}
+
+#division {
+    height: 3px;
+    padding: 0px;
+    margin-bottom: 10px;
+    background: #dddddd;
+}
+
+body {
+    background: url('../images/beanstalk-dark.png')
+
+}
+
+
+.container {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 960px;
+    }
+        
+    
+main {
+        background-color: #ffffff;
+        width: 900px;
+        height: 550px;
+        padding: 30px;
+        border: 1px solid #dddddd;
+        
+    }
+
+h2 {color: #4aaaa5;
+    margin: 0px;
+    border: 0px;
+    padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+
+    
+h3 {
+        z-index: 2;
+        top: 150px;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        width: 300px;
+        text-align: center;
+        
+
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    
+
+}
+
+
+footer {
+        background-color: #777777;
+        border-top: solid #4aaaa5 8px;
+        height: 60px;
+        padding-bottom: 10px;
+    }
